@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyrozza"
-version = "0.1.0-alpha.1"
+version = "0.1.0"
 description = "A Python wrapper for the UK Police API"
 authors = ["Armand Rego <armandrego@googlemail.com>"]
 license = "MIT"
